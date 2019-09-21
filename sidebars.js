@@ -7,6 +7,8 @@
 
 module.exports = {
   docs: {
-    "Tech stuff": ['relay', 'flow'],
+    Programming: ['flow', 'git', 'graphql', 'javascript', 'relay'],
+    Travel: ['travel/generic', 'travel/mexico'],
+    Read: ['read/links'],
   },
 };
