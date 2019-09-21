@@ -21,10 +21,10 @@ module.exports = {
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
-        {to: 'blog', label: 'Blog', position: 'left'},
+        {to: 'docs/relay', label: 'Meta', position: 'left'},
+        // {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/mrtnzlml/meta',
           label: 'GitHub',
           position: 'right',
         },
